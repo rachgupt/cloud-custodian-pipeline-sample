@@ -4,3 +4,4 @@ pyyaml
 requests
 vsts==0.1.19
 msrest==0.5.5
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
